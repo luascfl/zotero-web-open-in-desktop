@@ -1,0 +1,1 @@
+# zotero-web-open-in-desktop
